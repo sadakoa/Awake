@@ -1,0 +1,14 @@
+/* AREA */
+  Author: Your Name
+  Contact: example@mail.com
+  Description: Your site of description
+
+/* Social */
+  Facebook: https://www.facebook.com/
+  Twitter: https://www.twitter.com/
+  Instagram: http://instagram.com/
+
+/* Default */
+  Last update: 0.0.1
+  Language: Japanese
+  Doctype: HTML5
