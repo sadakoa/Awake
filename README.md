@@ -142,6 +142,12 @@ Awake is MIT LICENSE template.
 ### 2014/07/02
 	公開
 
+### 2014/07/09
+	カラーパレットの調整
+	require.jsのリンク削除
+	htmlのmain.jsのリンク設定
+
+
 ## 作者情報
 	貴島 衛 / Kijima Mamoru
 	サイト / http://sadakoa.jp/

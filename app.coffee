@@ -16,9 +16,9 @@ layouts:
 # Locals will be made available on every page. They can be
 # variables or (coffeescript) functions.
 locals:
-  title: 'Awake'
+  title: 'Your Site Title'
   title_with_markup: ->
-    "<h1 class='title'>Awake</h1>"
+    "<h1 class='title'>Your Site Title</h1>"
 
 # Precompiled template path, see http://roots.cx/docs/#precompile
 # templates: 'views/templates'
