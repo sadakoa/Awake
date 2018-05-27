@@ -147,11 +147,3 @@ Awake is MIT LICENSE template.
 	require.jsのリンク削除
 	htmlのmain.jsのリンク設定
 
-
-## 作者情報
-	貴島 衛 / Kijima Mamoru
-	サイト / http://sadakoa.jp/
-	連絡 / sadako0215@gmail.com
-	テンプレートのご利用上のトラブルにつきましては、製作者は一切の責任を負いません。
-
-
